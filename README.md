@@ -9,7 +9,7 @@ Microsoft SQL Server adapter for [sails.js](http://sailsjs.org/) intended for Sa
 ## Getting Started
 ### 1. Install
 ```sh
-$ npm install sails-mssqlserver --save
+$ npm install sails-mssqlserver-adapter --save
 ```
 
 ### 2. Configure
