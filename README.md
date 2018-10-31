@@ -1,9 +1,6 @@
-![sails logo](http://sailsjs.org/images/bkgd_squiddy.png)
+![sails logo](https://sailsjs.com/images/hero_squid.png)
 
 # Sails-MSsqlserver
-[![NPM version][npm-image]][npm-url]
-[![Build status][ci-image]][ci-url]
-[![Dependency Status][daviddm-image]][daviddm-url]
 
 
 
@@ -21,7 +18,7 @@ $ npm install sails-mssqlserver --save
 ```js
 {
   default: {
-    adapter: 'sails-mssqlserver',
+    adapter: 'sails-mssqlserver-adapter',
     user: 'some@user',
     password: 'some@ssword',
     host: 'abc123.database.windows.net',
@@ -65,4 +62,4 @@ MIT
 This project is a fork from [misterGF/sails-mssqlserver](https://github.com/misterGF/sails-mssqlserver). The code is also available under the MIT license.
 
 [npm-image]: https://img.shields.io/npm/v/sails-mssqlserver.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/sails-mssqlserver
+[npm-url]: https://npmjs.org/package/sails-mssqlserver-adapter
